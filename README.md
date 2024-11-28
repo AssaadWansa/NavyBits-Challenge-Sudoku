@@ -26,7 +26,7 @@ You can choose the difficulty between "Easy", "Medium" , and "Hard" and generate
 ### Type your Sudoku
 You can enter your numbers, press "Solver" to lock them, and now you have a sudoku puzzle! You can solve, check solution, and take hints too!
 ### Upload Image Sudoku
-By uploading an image of a sudoku you have, you will see you sudoku cloned to the board on the screen! Press "Solver" to lock it, and enjoy solving, taking hints, and checking your solution!
+By uploading an image of a sudoku you have, you will see your sudoku cloned to the board on the screen! Press "Solver" to lock it, and enjoy solving, taking hints, and checking your solution!
 Make sure that the image you uploaded is the one you want by pressing "Preview Image".
 
 ENJOY PUZZLING!
