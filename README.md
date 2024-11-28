@@ -16,7 +16,8 @@ On your browser, open http://localhost:3000 and the app will begin.
 An empty 9x9 sudoku board with a bunch of buttons will pop up.
 
 ## User Interface
-![React Sudoku](https://github.com/user-attachments/assets/576effcc-5389-401c-ae3f-45d4db66a066)
+![React Sudoku](https://github.com/user-attachments/assets/6bd249f7-268d-4534-844e-19ffd36f5a7f)
+
 
 ## Functionalities
 
