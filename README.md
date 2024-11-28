@@ -6,9 +6,9 @@ This game can generates random sudoku boards based on three difficulties (easy, 
 
 ## App Launching:
 Clone the repository:
-'git clone https://github.com/AssaadWansa/NavyBits-Internship-Challenge---Sudoku-Game-'
+`git clone https://github.com/AssaadWansa/NavyBits-Internship-Challenge---Sudoku-Game-`
 
-Once you have the repo files in a local directory, run 'npm install' to install all the dependencies.
+Once you have the repo files in a local directory, run `npm install` to install all the dependencies.
 
 ### Run the program by using `npm start`
 
