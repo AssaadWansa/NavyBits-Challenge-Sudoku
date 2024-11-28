@@ -1,12 +1,16 @@
-# Getting Started with Create React App
+# React Sudoku Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A logic-based number placement sudoku game in React. The point of the game is to fill a 9x9 grid with numbers so that each column, row, and 3x3 subgrids contain all of the digits from 1 to 9.
 
-## Available Scripts
+This game can generates random sudoku boards based on three difficulties (easy, medium, and hard) in the player's browser, solve user entered Grids, and transform uploaded sudoku image into grid to be solved!
 
-In the project directory, you can run:
+## App Launching:
+Clone the repository:
+git clone https://github.com/AssaadWansa/NavyBits-Internship-Challenge---Sudoku-Game-
 
-### `npm start`
+Once you have the repo files in a local directory, run npm install to install all the dependencies.
+
+### Run the program by using `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
