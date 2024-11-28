@@ -1,46 +1,33 @@
-# Getting Started with Create React App
+# React Sudoku Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A logic-based number placement sudoku game in React. The point of the game is to fill a 9x9 grid with numbers so that each column, row, and 3x3 subgrids contain all of the digits from 1 to 9.
 
-## Available Scripts
+This game can generates random sudoku boards based on three difficulties (easy, medium, and hard) in the player's browser, solve user entered Grids, and transform uploaded sudoku image into grid to be solved!
 
-In the project directory, you can run:
+## App Launching:
+Clone the repository:
+`git clone https://github.com/AssaadWansa/NavyBits-Internship-Challenge---Sudoku-Game-`
 
-### `npm start`
+Once you have the repo files in a local directory, run `npm install` to install all the dependencies.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Run the program by using `npm start`
+On your browser, open http://localhost:3000 and the app will begin.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+An empty 9x9 sudoku board with a bunch of buttons will pop up.
 
-### `npm test`
+## User Interface
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Functionalities
+![React App - Sudoku](https://github.com/user-attachments/assets/5912c98a-c1db-493e-b590-d08110c1e32a)
 
-### `npm run build`
+### 3 Available uses:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Generate Sudoku
+You can choose the difficulty between "Easy", "Medium" , and "Hard" and generate the sudoku for you to solve it. You can use 3 available hints per game, and if you wanted to solve it without continuing by yourself. Check the solution so you make sure you did it!
+### Type your Sudoku
+You can enter your numbers, press "Lock Cells" to lock them, and now you have a sudoku puzzle! You can solve, check solution, and take hints too!
+### Upload Image Sudoku
+By uploading an image of a sudoku you have, you will see your sudoku cloned to the board on the screen! Press "Lock Cells" to lock it, and enjoy solving, taking hints, and checking your solution!
+Make sure that the image you uploaded is the one you want by pressing "Preview Image".
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+ENJOY PUZZLING!
