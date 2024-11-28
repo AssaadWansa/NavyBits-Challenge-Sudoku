@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "navybits-challenge",
   "version": "0.1.0",
   "private": true,
@@ -6,10 +7,18 @@
     "@emotion/react": "^11.13.5",
     "@emotion/styled": "^11.13.5",
     "@mui/material": "^6.1.9",
+=======
+  "name": "navybits-sudoku",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@techstark/opencv-js": "^4.10.0-release.1",
+>>>>>>> 03e09f74f4b7ffcb131d53e0210ee6844e9c7417
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.5.2",
+<<<<<<< HEAD
     "@types/node": "^16.18.121",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
@@ -17,6 +26,24 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "sass": "^1.81.0",
+=======
+    "@types/node": "^16.18.119",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "axios": "^1.7.7",
+    "canvas-confetti": "^1.9.3",
+    "nth-check": "^2.1.1",
+    "path-browserify": "^1.0.1",
+    "postcss": "^8.4.48",
+    "react": "^18.3.1",
+    "react-app-rewired": "^2.2.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0",
+    "react-scripts": "^5.0.1",
+    "serialize-javascript": "^6.0.2",
+    "sockjs": "^0.3.24",
+    "terser": "^5.36.0",
+>>>>>>> 03e09f74f4b7ffcb131d53e0210ee6844e9c7417
     "tesseract.js": "^5.1.1",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
@@ -44,5 +71,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
+=======
+  },
+  "devDependencies": {
+    "@types/canvas-confetti": "^1.6.4",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
+>>>>>>> 03e09f74f4b7ffcb131d53e0210ee6844e9c7417
   }
 }
