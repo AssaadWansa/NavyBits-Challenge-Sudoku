@@ -24,9 +24,9 @@ An empty 9x9 sudoku board with a bunch of buttons will pop up.
 #### Generate Sudoku
 You can choose the difficulty between "Easy", "Medium" , and "Hard" and generate the sudoku for you to solve it. You can use 3 available hints per game, and if you wanted to solve it without continuing by yourself. Check the solution so you make sure you did it!
 ### Type your Sudoku
-You can enter your numbers, press "Solver" to lock them, and now you have a sudoku puzzle! You can solve, check solution, and take hints too!
+You can enter your numbers, press "Lock Cells" to lock them, and now you have a sudoku puzzle! You can solve, check solution, and take hints too!
 ### Upload Image Sudoku
-By uploading an image of a sudoku you have, you will see your sudoku cloned to the board on the screen! Press "Solver" to lock it, and enjoy solving, taking hints, and checking your solution!
+By uploading an image of a sudoku you have, you will see your sudoku cloned to the board on the screen! Press "Lock Cells" to lock it, and enjoy solving, taking hints, and checking your solution!
 Make sure that the image you uploaded is the one you want by pressing "Preview Image".
 
 ENJOY PUZZLING!
