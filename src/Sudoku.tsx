@@ -594,7 +594,7 @@ const Sudoku: React.FC = () => {
         <button onClick={generateNewPuzzle}>Generate</button>
         <button onClick={handleLock} className="Solver"
             title="Fill the grid with your own Sudoku, lock it by pressing this button, and solve it!">
-            Solver</button>
+            Lock Cells</button>
       </div>
 
       <div className="buttons-container">
